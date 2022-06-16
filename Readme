@@ -1,0 +1,4 @@
+Página inicial da aplicação "/frotas"
+
+Ao chamar a api permite consultar registros de eventos da aplicação.
+Configuração padrão: http://localhost:8090/frotas
